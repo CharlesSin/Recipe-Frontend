@@ -6,7 +6,11 @@ Recipe Web App (Frontend)
 
 [Demo](https://eugene-recipe.netlify.app)
 
-## Screenshot (Coming Soon)
+## Backend Github Repo
+
+[Backend](https://github.com/CharlesSin/Recipe-Backend-Server)
+
+## Screenshot
 
 ![alt text](https://github.com/CharlesSin/Recipe-Backend-Server/blob/main/public/images/screenshot.png)
 
