@@ -2,14 +2,17 @@
 
 Recipe Web App (Frontend)
 
+## Demo
+
+[Demo](https://eugene-recipe.netlify.app)
+
 ## Screenshot (Coming Soon)
 
-
-## Demo(Coming Soon)
+![alt text](https://github.com/CharlesSin/Recipe-Backend-Server/blob/main/public/images/screenshot.png)
 
 ## Introduction
 
-使用 Vite 實作食譜平臺 
+使用 Vite 實作食譜平臺
 
 ## Use Technology & Library
 
